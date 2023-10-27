@@ -1,0 +1,31 @@
+.containeremail {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #c4c1c1;
+}
+
+.containeremail p {
+    font-weight: bold;
+    display: inline-flex;
+    text-align: start;
+}
+
+.containeremail label {
+    font-weight: bold;
+    width: 50%;
+}
+
+.containeremail input {
+    padding: 5px;
+    width: 70%; 
+}
+
+.containeremail button {
+    background-color: #e3e8ea;
+    color: rgb(14, 12, 12);
+    border: none;
+    padding: 8px 20px;
+    cursor: pointer;
+    display: inline-block;
+    
+}
